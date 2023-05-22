@@ -10,7 +10,7 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 
-i)	# To find the maximum of marks using the list method sort.
+i)	 To find the maximum of marks using the list method sort.
 ```
 def max_marks(marks):
     marks.sort()
@@ -21,7 +21,7 @@ def max_marks(marks):
 
 ```
 
-ii)	# To find the maximum marks using the list method max().
+ii)	 To find the maximum marks using the list method max().
 ```
 def max_marks(marks):
     maxi=max(marks)
@@ -30,7 +30,7 @@ def max_marks(marks):
 
 ```
 
-iii) # To find the maximum marks without using builtin functions.
+iii)  To find the maximum marks without using builtin functions.
 ```
 def max_marks(list1):
     max=list1[0]
@@ -42,7 +42,7 @@ def max_marks(list1):
 
 ```
 # Sample Input and Output
-#![Sam Max](https://github.com/abinayasangeetha/FindMaximum/assets/119393675/d45409be-ca0d-4a7c-8fc2-6cd0e43b8cdf)
+![Sam Max](https://github.com/abinayasangeetha/FindMaximum/assets/119393675/d45409be-ca0d-4a7c-8fc2-6cd0e43b8cdf)
 
 
 
